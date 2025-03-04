@@ -141,6 +141,12 @@ span.sum-stat {
   font-weight: bold;
 }
 
+span.stat {
+  top: 0px;
+  color: gray;
+  font-weight: bold;
+}
+
 button[type="submit"] {
   margin-left: 108px;
   margin-top: 20px;
