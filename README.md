@@ -37,7 +37,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned about: linear-gradient backgrounds, about hsla and continue to learn flexbox.
+I learned about: linear-gradient backgrounds, about hsla and continue to learn flexbox. I don't know anything about .json yet, but the file is there.
 
 ## Author
 
