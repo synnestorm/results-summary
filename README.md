@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/results-summary-using-html-and-css-4VWV8VaISw]
 - Live Site URL: [https://synnestorm.github.io/results-summary/)]
 
 ## My process
